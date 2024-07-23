@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.stroke {
+    -webkit-text-stroke: 3px rgb(11, 11, 126);
+}
